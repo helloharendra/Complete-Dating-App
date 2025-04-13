@@ -1,3 +1,4 @@
+import 'package:dating_app/presentation/screens/message_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:dating_app/core/constants/app_colors.dart';
 import 'package:dating_app/data/models/users/user_model.dart';
@@ -561,7 +562,15 @@ class ExploreScreen extends StatelessWidget {
                     const SizedBox(width: 16),
                     Expanded(
                       child: ElevatedButton(
-                        onPressed: () {},
+                        onPressed: () {
+                          Navigator.pop(context); // Close the profile sheet
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (context) => MessageScreen(user: user),
+                            ),
+                          );
+                        },
                         style: ElevatedButton.styleFrom(
                           backgroundColor: AppColors.primary,
                           padding: const EdgeInsets.symmetric(vertical: 16),
