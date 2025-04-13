@@ -1,4 +1,4 @@
-Here's the updated `README.md` that includes instructions for cloning and running the app while maintaining your professional showcase:
+
 
 ```markdown
 # SparkMatch - Modern Dating App
@@ -166,13 +166,3 @@ Permission is hereby granted... [include full license text]
 5. **Visual Enhancements**:
    - Better organized screenshots section
    - Clean code block formatting
-
-### How to Use:
-
-1. Replace placeholder images with actual screenshots
-2. Update the repository URL with your actual GitHub repo
-3. Add any additional setup instructions specific to your project
-4. Include the full MIT license text
-5. Add any contributor guidelines if applicable
-
-This version effectively showcases your work as both an open-source project and a professional service offering, encouraging potential clients to contact you for the full-featured commercial version.
