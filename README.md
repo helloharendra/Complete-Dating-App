@@ -144,7 +144,7 @@ Commercial licensing available for OEM/white-label solutions
 
 ## 📞 Let's Build Your Dating Platform
 
----
+
 ## 💼 Hire Me & Support My Work
 
 ### 🤝 Available for Projects
